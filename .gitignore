@@ -1,0 +1,12 @@
+# Office 临时锁文件
+~$*
+*.tmp
+*.bak
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# Project / Excel 自动备份
+*.mpd
+*.xlk
